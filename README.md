@@ -19,7 +19,7 @@ You should focus on building an intuitive and good-looking website that integrat
 
 ## Acceptance criteria
 
-You **don't** need to submit a pull request to this repo to complete this challenge.
+Please create one pull request **per website**!
 
-- [ ] Deploy the websites
-- [ ] Add links to your portfolio
+- [ ] Deploy the website
+- [ ] Add the link to your portfolio
